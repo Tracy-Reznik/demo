@@ -1,0 +1,4 @@
+out.json
+out/*
+*.exe
+.idea
